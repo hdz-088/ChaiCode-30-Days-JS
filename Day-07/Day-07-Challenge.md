@@ -1,4 +1,4 @@
-# Day-06 Objects
+# Day-07 Object
 
 ### Tasks:
 
